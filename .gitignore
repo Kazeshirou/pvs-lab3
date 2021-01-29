@@ -1,0 +1,9 @@
+*.disk
+*.ready
+*.aux
+*.log
+*.out
+*.toc
+*.gv
+network_gv.tex
+*.pdf
