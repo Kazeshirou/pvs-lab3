@@ -1,4 +1,3 @@
-/* Простейший TCP-сервер, отправляющий все полученные данные обратно клиенту */
 #include <arpa/inet.h>
 #include <errno.h>
 #include <netinet/in.h>
